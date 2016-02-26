@@ -1,5 +1,9 @@
 # Jenkins Docker in Docker (DinD) JNLP slave image
 
+[![Docker Stars](https://img.shields.io/docker/stars/zomplabs/jenkins-dind-jnlp-slave.svg)](https://hub.docker.com/r/zomplabs/jenkins-dind-jnlp-slave)
+[![Docker Pulls](https://img.shields.io/docker/pulls/zomplabs/jenkins-dind-jnlp-slave.svg)](https://hub.docker.com/r/zomplabs/jenkins-dind-jnlp-slave)
+
+
 [`zomplabs/jenkins-dind-jnlp-slave`](https://hub.docker.com/r/zomplabs/jenkins-dind-jnlp-slave/)
 
 A [Jenkins](https://jenkins-ci.org) Docker in Docker slave using JNLP to establish connection.
