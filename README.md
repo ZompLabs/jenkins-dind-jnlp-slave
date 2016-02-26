@@ -2,6 +2,8 @@
 
 [![Docker Stars](https://img.shields.io/docker/stars/zomplabs/jenkins-dind-jnlp-slave.svg)](https://hub.docker.com/r/zomplabs/jenkins-dind-jnlp-slave)
 [![Docker Pulls](https://img.shields.io/docker/pulls/zomplabs/jenkins-dind-jnlp-slave.svg)](https://hub.docker.com/r/zomplabs/jenkins-dind-jnlp-slave)
+[![ImageLayers Size](https://img.shields.io/imagelayers/image-size/zomplabs/jenkins-dind-jnlp-slave/latest.svg)](https://imagelayers.io/?images=zomplabs%2Fjenkins-dind-jnlp-slave:latest)
+[![ImageLayers Layers](https://img.shields.io/imagelayers/layers/zomplabs/jenkins-dind-jnlp-slave/latest.svg)](https://imagelayers.io/?images=zomplabs%2Fjenkins-dind-jnlp-slave:latest)
 
 
 [`zomplabs/jenkins-dind-jnlp-slave`](https://hub.docker.com/r/zomplabs/jenkins-dind-jnlp-slave/)
